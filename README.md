@@ -1,10 +1,6 @@
 # Weather-Update-App
 Welcome to my Day 1 project of the #30Days30Projects challenge! This Weather App is a simple yet powerful web application built with HTML, CSS, and JavaScript, utilizing the OpenWeatherMap API for real-time weather data.
 
-
-Overview:
-Welcome to my Day 1 project of the #30Days30Projects challenge! This Weather App is a simple yet powerful web application built with HTML, CSS, and JavaScript, utilizing the OpenWeatherMap API for real-time weather data.
-
 Features:
 #Real-time Updates: Get the latest weather information instantly.
 #User-friendly Interface: Stylish design with responsive elements for a seamless experience on all devices.
